@@ -1,4 +1,4 @@
-# TensorFlow_Scikit
+# TensorFlow sklearn practice
 
 These are some examples I use for simple neural network, random forest. 
 
