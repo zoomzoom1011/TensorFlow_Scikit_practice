@@ -2,7 +2,7 @@
 
 These are some examples I use for simple neural network, random forest. 
 
-Neural netwrok here use the pipeline to deal with the preprocess, and make the prediction for the recogin
+Neural netwrok here use the pipeline to deal with the preprocess, and make the prediction
 
 The way to run tensorflow is (tensor + flow): 
 1. Create Tensors (variables)
